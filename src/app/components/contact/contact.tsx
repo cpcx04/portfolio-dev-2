@@ -40,7 +40,7 @@ const ContactSection = () => {
             CONTACT
           </h2>
           <p className="text-gray-400 text-lg mb-12">
-            Let's work together on your next project
+            Let&quot;s work together on your next project
           </p>
 
           <div className="space-y-6">
